@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = "gauravrathod207-lgtm/hellojava:v1"
+        IMAGE_NAME = "gauravrathod207/hellojava:v1"
     }
 
     stages {
